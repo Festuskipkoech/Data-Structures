@@ -45,8 +45,8 @@ The repository covers the following topics, progressing from foundational concep
 ```
 .
 ├── README.md                  — you are here
-├── dsa_summary.md             — complete concept reference and revision sheet
-├── dsa_challenges.md          — 60+ practice problems organized by topic
+├── notes/dsa_summary.md             — complete concept reference and revision sheet
+├── problems/dsa_challenges.md          — 60+ practice problems organized by topic
 └── solutions/                 — solutions to challenges (added progressively)
 ```
 
